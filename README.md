@@ -46,6 +46,7 @@ This project provides a boilerplate for developers, indie hackers, and solo entr
 Built by [Bilal Baig](https://github.com/bilal-baig-dev)  
 Originally launched as [SaaSPack](https://saaspack.app)
 
+
 ## Getting Started
 
 Follow these steps to clone the repository and set it up for your own project:
