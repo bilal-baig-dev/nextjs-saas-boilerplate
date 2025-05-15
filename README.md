@@ -69,7 +69,7 @@ Replace `yourusername` with your GitHub username.
 Once the repository is cloned, navigate to the project folder:
 
 ```bash
-cd saaspack
+cd your-folder-name
 ```
 
 ### Step 3: Remove the Original Remote
