@@ -39,12 +39,15 @@ This project provides a boilerplate for developers, indie hackers, and solo entr
 
 ## 🌐 Demo
 
-[SaaSPack](https://saaspack.app)
+[saaspack.app](https://saaspack.app)
 
 ## ✨ About
 
 Built by [Bilal Baig](https://github.com/bilal-baig-dev)  
 Originally launched as [SaaSPack](https://saaspack.app)
+
+
+---
 
 
 ## Getting Started
@@ -112,4 +115,4 @@ Open your browser and visit `http://localhost:3000` to see your project in actio
 
 ## Acknowledgments
 
-Thanks for checking out SaaSPack! Happy coding!
+Thanks for checking out Next.js SaaS Boilerplate Kit! Happy Shipping!
