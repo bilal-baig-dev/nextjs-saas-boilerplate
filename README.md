@@ -1,4 +1,4 @@
-# Next.js SaaS Boilerplate Kit
+# Next.js SaaS Boilerplate
 
 A modern and open-source boilerplate to kickstart your SaaS product using **Next.js 14**, **App Router**, **Tailwind CSS**, **shadcn/ui**, **Stripe**, **Prisma**, and more.
 
@@ -56,10 +56,10 @@ Follow these steps to clone the repository and set it up for your own project:
 
 ### Step 1: Clone the Repository
 
-Open your terminal and run the following command to clone the SaaS Pack repository:
+Open your terminal and run the following command to clone the Nextjs SaaS repository:
 
 ```bash
-git clone https://github.com/yourusername/saaspack.git
+git clone https://github.com/bilal-baig-dev/nextjs-saas-boilerplate.git
 ```
 
 Replace `yourusername` with your GitHub username.
