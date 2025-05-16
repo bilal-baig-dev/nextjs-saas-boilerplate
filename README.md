@@ -113,6 +113,17 @@ npm run dev
 
 Open your browser and visit `http://localhost:3000` to see your project in action!
 
-## Acknowledgments
 
-Thanks for checking out Next.js SaaS Boilerplate Kit! Happy Shipping!
+## 🤝 Contributing
+
+Contributions, issues, and ideas are welcome!
+
+If you’ve got suggestions to improve the boilerplate, feel free to open an issue or submit a pull request. Whether it's a bug fix, feature request, or documentation update — every bit helps.
+
+1. Fork the repo
+2. Create your feature branch (`git checkout -b feature/your-feature-name`)
+3. Commit your changes (`git commit -m 'Add your message here'`)
+4. Push to the branch (`git push origin feature/your-feature-name`)
+5. Open a pull request
+
+Thanks for being part of the journey!
